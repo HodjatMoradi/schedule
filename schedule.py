@@ -8,7 +8,7 @@
 # 16-07-2019, hojm, almost all of the kywords in the schedule added.
 # 07-10-2019, hojm, phase1 startup uncertainty removed. The start of prediction added as a new refrence point.
 # 09-10-2019, hojm, phase1 only functionality is fixed for drilling schedule and group control
-
+# changing the order might be needed.
 
 import sys, os, shutil
 import datetime as dt
